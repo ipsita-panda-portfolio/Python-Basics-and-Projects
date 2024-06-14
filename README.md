@@ -1,14 +1,14 @@
 # Python-Basics-and-Projects
-# This is the first repository which contains notebooks highlighting the basics of python and also covers some python projects.
+### This is the first repository which contains notebooks highlighting the basics of python and also covers some python projects.
 
-Topics Covered
-1- Python Basics : Variables 
-2- Python Data Types
-3- Input/Output
-4- Control Flow and Loops
-5- OOPs
-6- Functions
-7- Exception Handling 
+### Topics Covered :
+  1- Python Basics : Variables 
+  2- Python Data Types
+  3- Input/Output
+  4- Control Flow and Loops
+  5- OOPs
+  6- Functions
+  7- Exception Handling 
 
 Projects :
 
